@@ -1,0 +1,15 @@
+D:\C_sharp(WinForms)\Project-button\Project-button\bin\Debug\Project-button.exe.config
+D:\C_sharp(WinForms)\Project-button\Project-button\bin\Debug\Project-button.exe
+D:\C_sharp(WinForms)\Project-button\Project-button\bin\Debug\Project-button.pdb
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form1.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Properties.Resources.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project-button.csproj.GenerateResource.cache
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project-button.csproj.CoreCompileInputs.cache
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project-button.exe
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project-button.pdb
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form2.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form3.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form4.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form5.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form6.resources
+D:\C_sharp(WinForms)\Project-button\Project-button\obj\Debug\Project_button.Form7.resources
